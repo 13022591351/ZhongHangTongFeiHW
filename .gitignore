@@ -27,3 +27,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+DOC/
+EquipmentBox1/EquipmentBox1-backups/
+EquipmentBox1/Output/
+EquipmentBox2/EquipmentBox2-backups/
+EquipmentBox2/Output/
+F105X3CAN/F105X3CAN-backups/
+F105X3CAN/Output/
