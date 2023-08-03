@@ -28,10 +28,20 @@ fp-info-cache
 *.xml
 *.csv
 
+*.stp
+*.step
+*.html
+
 DOC/
 EquipmentBox1/EquipmentBox1-backups/
 EquipmentBox1/Output/
 EquipmentBox2/EquipmentBox2-backups/
 EquipmentBox2/Output/
+EquipmentBoxLeft_V2/EquipmentBoxLeft_V2-backups/
+EquipmentBoxLeft_V2/Output/
+EquipmentBoxRight_V2/EquipmentBoxRight_V2-backups/
+EquipmentBoxRight_V2/Output/
 F105X3CAN/F105X3CAN-backups/
 F105X3CAN/Output/
+ICTest/ICTest-backups/
+ICTest/Output/
